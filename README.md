@@ -5,7 +5,7 @@ Projeto com paginação em python
 projeto utilizando orm no python
 
 Em primeiro lugar executar o comando para instalar o django
-pip install django
+pip install django bootstrap4
 
 Após isso criar um projeto
 django-admin startproject paginacao .
